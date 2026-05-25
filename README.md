@@ -1,6 +1,6 @@
 # My Website
 
-This is a simple website hosted using GitHub Pages.
+This is a simple website hosted using Web Pages.
 
 ## Features
 - Responsive design
